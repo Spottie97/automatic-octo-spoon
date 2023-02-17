@@ -29,12 +29,12 @@
   }
   
   .front {
-    background-image: url(images/image1.jpg);
+    background-image: url(images/10_of_clubs.png);
     background-size: cover;
   }
   
   .back {
-    background-image: url(images/image2.jpg);
+    background-image: url(images/back_card.png);
     background-size: cover;
   }
   /* Repeat the front and back styles for each pair of matching images */
